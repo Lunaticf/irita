@@ -24,7 +24,8 @@ order: false
         },
         "meta": {
             "type": "string",
-            "description": "A URI pointing to other attributes related to the asset to which this NFT represents"
+            "description": "A URI pointing to other attributes 
+                related to the asset to which this NFT represents"
         }
     }
 }
