@@ -19,7 +19,8 @@ order: false
         },
         "image": {
             "type": "string",
-            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents"
+            "description": "A URI pointing to a resource with mime type image/* 
+                representing the asset to which this NFT represents"
         },
         "meta": {
             "type": "string",
